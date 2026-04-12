@@ -5,17 +5,17 @@ Passionate senior secondary student that wants to explore the IT world, Business
 #
 [![YouTube Subscribers](https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCsajpWY6jv8JB9eQZZZ6eUQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630)](https://www.youtube.com/@AmeerAlnaimi) [![Views](https://img.shields.io/badge/Views-40K-blue?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AmeerAlnaimi)[![GitHub Followers](https://img.shields.io/github/followers/ameeralnaimi?color=236ad3&style=for-the-badge&logo=github&label=Follow)](https://github.com/ameeralnaimi?tab=followers)[![GitHub Stars](https://img.shields.io/github/stars/ameeralnaimi?color=55960c&style=for-the-badge&logo=star&label=Stars)](https://github.com/ameeralnaimi?tab=repositories&sort=stargazers)
 
-## 🌐 Socials:
+## Socials Affiliation:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ameeralnaimi) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ameeralnaimi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCsajpWY6jv8JB9eQZZZ6eUQ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ameeralnaimi@outlook.com)
 
-# 💻 Tech Stack:
+# Technical Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=ameeralnaimi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=ameeralnaimi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ameeralnaimi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### Random Dev Quote
+### Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
