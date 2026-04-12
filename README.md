@@ -14,7 +14,7 @@ Passionate senior secondary student that wants to explore the IT world, Business
 ![](https://streak-stats.demolab.com/?user=ameeralnaimi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ameeralnaimi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
