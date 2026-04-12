@@ -4,7 +4,7 @@ Passionate senior secondary student that wants to explore the IT world, Business
 [![Website](https://img.shields.io/badge/Website-ameeralnaimi.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ameeralnaimi.com/) <br>
 Check out my website for more details. <br>
 
-[![YouTube Subscribers](https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCsajpWY6jv8JB9eQZZZ6eUQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630)](https://www.youtube.com/@AmeerAlnaimi) <br>
+[![YouTube Subscribers](https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCsajpWY6jv8JB9eQZZZ6eUQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630)](https://www.youtube.com/@AmeerAlnaimi) 
 
 [![Views](https://img.shields.io/badge/Views-40K-blue?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AmeerAlnaimi)
 
