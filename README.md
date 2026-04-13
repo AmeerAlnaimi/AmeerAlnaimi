@@ -1,5 +1,5 @@
 # About Me:
-Passionate senior secondary student that wants to explore the IT world, Business, and Marketing. I'm currently exploring my options in Information Technology. I'm planning I either go for cybersecurity, data scientist, or app development.<br>I'm just here to test programs, contribute to projects, and building my projects.
+Passionate senior secondary student that wants to explore the IT world, Business, and Marketing. I'm currently exploring my options in Information Technology. I'm planning I either go for cybersecurity, data scientist, or app development.<br>I'm just here to test programs, contribute to projects, and building my projects to further enhance my skillset and showcase my performance.
 
 [![Website](https://img.shields.io/badge/Website-ameeralnaimi.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ameeralnaimi.com/) <br>
 #
