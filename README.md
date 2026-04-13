@@ -22,7 +22,6 @@ Passionate senior secondary student that wants to explore the IT world, Business
 ![](https://github-contributor-stats.vercel.app/api?username=ameeralnaimi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=ameeralnaimi&icon=0&color=7)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ameeralnaimi) 
