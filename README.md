@@ -18,9 +18,6 @@ Passionate senior secondary student that wants to explore the IT world, Business
 ### Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ameeralnaimi&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 
   ## 💰 You can help me by Donating
