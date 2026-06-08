@@ -1,9 +1,15 @@
-# About Me:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=900&color=00FFFF&center=true&vCenter=true&width=820&lines=Ameer+Alnaimi;Aspiring+Software+Engineer" alt="Typing SVG" />
+</p>
+
+---
+
 Passionate senior secondary student that wants to explore the IT world, Business, and Marketing. I'm currently exploring my options in Information Technology. I'm planning to either pursue for cybersecurity, data scientist, or app development.<br>I'm just here to test scripts, programs, contribute to projects, and building my projects to further enhance my skillset and showcase my performance.
 
 [![Website](https://img.shields.io/badge/Website-ameeralnaimi.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ameeralnaimi.com/) <br>
 #
 [![YouTube Subscribers](https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCsajpWY6jv8JB9eQZZZ6eUQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630)](https://www.youtube.com/@AmeerAlnaimi)  ![Views](https://img.shields.io/badge/Views-43K-blue?style=for-the-badge&logo=youtube&logoColor=white) [![GitHub Stars](https://img.shields.io/github/stars/ameeralnaimi?color=55960c&style=for-the-badge&logo=star&label=Stars)](https://github.com/ameeralnaimi?tab=repositories&sort=stargazers)
+
 
 ## Socials Affiliation:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ameeralnaimi) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ameeralnaimi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCsajpWY6jv8JB9eQZZZ6eUQ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ameeralnaimi@outlook.com)
